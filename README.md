@@ -97,12 +97,18 @@ mobile-maze-hci/
 
 ## References
 
-Ahmad M. lbrahim H. AnNing, S. 2024. Usability heuristics for mobile game interfaces: Evaluation and design principles. International Journal of Civil Engineering and Technology 2, 1 (2024), 9–15. doi:10.56472/25839217/IJCEET-V2I1P103
-Leila Homaeian, Nippun Goyal, James R. Wallace, and Stacey D Scott. 2018. Group vs individual: Impact of touch and tilt cross- device interactions on mixed-focus collaboration. CHI ’18: Proceedings of the 2018 (2018), 1–13. doi:10.1145/3173574.3173647
-Noritake. [n. d.]. What are the different types of touchscreens and how are they used?
-K. Sang-Duck, S. Sunghyun. 2019. A Comparison study of the smartphone gaming control. Journal of Usability Studies 14, 4 (2019), 201–223.
-Brum M.R. Schmidt J.D.E. Rieder R. De Marchi A.C.B. Simor, F.W. 2016. Usability evaluation methods for gesture-based games: A systematic review. JMIR Serious Games 4, 2 (2016). doi:10.2196/games.5860
-TouchPilot. 2013. Tilt Racer – Use your phone as a steering wheel with any PC game.
+Ahmad M. lbrahim H. AnNing, S. 2024. Usability heuristics for mobile game interfaces: Evaluation and design principles. *International Journal of Civil Engineering and Technology* 2, 1 (2024), 9–15. doi:10.56472/25839217/IJCEET-V2I1P103
+
+Leila Homaeian, Nippun Goyal, James R. Wallace, and Stacey D Scott. 2018. Group vs individual: Impact of touch and tilt cross- device interactions on mixed-focus collaboration. *CHI ’18: Proceedings of the 2018* (2018), 1–13. doi:10.1145/3173574.3173647
+
+Noritake. [n. d.]. *What are the different types of touchscreens and how are they used?*
+
+K. Sang-Duck, S. Sunghyun. 2019. A Comparison study of the smartphone gaming control. *Journal of Usability Studies* 14, 4 (2019), 201–223.
+
+Brum M.R. Schmidt J.D.E. Rieder R. De Marchi A.C.B. Simor, F.W. 2016. Usability evaluation methods for gesture-based games: A systematic review. *JMIR Serious Games 4*, 2 (2016). 
+doi:10.2196/games.5860
+
+TouchPilot. 2013. *Tilt Racer – Use your phone as a steering wheel with any PC game*.
 
 ---
 
